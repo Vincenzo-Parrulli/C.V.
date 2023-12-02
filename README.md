@@ -32,7 +32,8 @@ presentation and customization of your professional profile:
   Using a unique and customized CV created with HTML and CSS
   can set you apart from other candidates.
   It demonstrates initiative, creativity,
-  and dedication to presenting your professional profile in an innovative way.
+  and dedication to presenting your professional profile in an innovative way.<br>
+  
 
   In summary, building your CV using HTML and CSS
   empowers you to create a personalized, visually
